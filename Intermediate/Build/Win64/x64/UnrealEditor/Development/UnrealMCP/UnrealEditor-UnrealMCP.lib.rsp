@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealMCP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE\MCPtest\Intermediate\Build\Win64\x64\MCPtestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"E:\UE\MCPtest\Plugins\UnrealMCP\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealMCP\Module.UnrealMCP.cpp.obj"
+"E:\UE\MCPtest\Plugins\UnrealMCP\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealMCP\Default.rc2.res"
+/OUT:"E:\UE\MCPtest\Plugins\UnrealMCP\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealMCP\UnrealEditor-UnrealMCP.lib"
